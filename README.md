@@ -27,6 +27,18 @@ An Android music app based on [SimpMusic](https://github.com/maxrave-dev/SimpMus
 - **Latest build:** [Download from Releases](https://github.com/thalalbinod208-cell/UnxMusic/releases/latest)
 - **License:** [GPL-3.0-or-later](https://github.com/thalalbinod208-cell/UnxMusic/blob/main/LICENSE)
 
+### Interface previews
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/thalalbinod208-cell/UnxMusic/main/assets/showcase/home-preview.svg" alt="UnX Music home design preview" width="100%" /><br /><strong>Home</strong></td>
+    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/thalalbinod208-cell/UnxMusic/main/assets/showcase/player-preview.svg" alt="UnX Music player design preview" width="100%" /><br /><strong>Player</strong></td>
+    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/thalalbinod208-cell/UnxMusic/main/assets/showcase/library-preview.svg" alt="UnX Music library design preview" width="100%" /><br /><strong>Library</strong></td>
+  </tr>
+</table>
+
+<sub>These are design previews, not screenshots from a running app build.</sub>
+
 ## Tools
 
 <div align="center">
