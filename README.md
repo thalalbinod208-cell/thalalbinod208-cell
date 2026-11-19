@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/thalalbinod208-cell/AETHER">
-    <img src="https://img.shields.io/badge/AETHER-v2.4.0%20(Latest)-0284c7?style=for-the-badge&logo=android&logoColor=white" alt="AETHER Release" />
+    <img src="https://img.shields.io/badge/AETHER-v2.5.0%20(Latest)-0284c7?style=for-the-badge&logo=android&logoColor=white" alt="AETHER Release v2.5.0" />
   </a>
   <a href="https://aethermusic-alpha.vercel.app">
     <img src="https://img.shields.io/badge/Live%20Website-aethermusic--alpha-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" />
@@ -17,12 +17,15 @@
   <a href="https://kotlinlang.org/">
     <img src="https://img.shields.io/badge/Kotlin-Compose%20%7C%20Media3-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   </a>
+  <a href="https://wa.me/9779768914027">
+    <img src="https://img.shields.io/badge/WhatsApp-Direct%20Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Support" />
+  </a>
 </div>
 
 <br/>
 
 <p align="center">
-  <em>Hi there! I’m <strong>Binod Thalal</strong> — an Android Engineer passionate about crafting bespoke, high-performance music and multimedia applications with Liquid Glass design, low-latency streaming pipelines, and bit-perfect acoustics.</em>
+  <em>Hi there! I’m <strong>Binod Thalal</strong> — an Android Engineer passionate about crafting bespoke, high-performance music and multimedia applications with Liquid Glass design, 120 FPS hardware-accelerated animations, low-latency streaming pipelines, and bit-perfect acoustics.</em>
 </p>
 
 ---
@@ -35,14 +38,15 @@
       <h3 align="center">✨ AETHER (Flagship)</h3>
       <p align="center"><em>A luxury, editorial-grade music player for Android.</em></p>
       <ul>
-        <li><strong>Liquid Glass Design:</strong> Custom AGSL runtime shaders, real-time backdrop refraction, and fluid motion springs.</li>
-        <li><strong>Bit-Perfect Acoustics:</strong> Low-jitter audio sink, custom DSP equalizer shaping, and high-res DAC routing.</li>
-        <li><strong>Instant Startup:</strong> Tuned 500ms initial playback buffer and persistent HTTP/2 connection reuse.</li>
-        <li><strong>Max Quality Video:</strong> Up to 4K (2160p) hardware-accelerated video playback.</li>
+        <li><strong>4K UHD & 2K QHD Playback:</strong> Hardware-accelerated local video & movie player with native resolution auto-selection.</li>
+        <li><strong>120 FPS Dot-Morph:</strong> Classical statue masthead halftone dot animation with zero-lag background cache precomputation.</li>
+        <li><strong>Liquid Glass Design:</strong> Custom AGSL runtime shaders, real-time backdrop refraction, and fluid spring physics.</li>
+        <li><strong>Bit-Perfect Acoustics:</strong> Low-jitter audio sink, 39 headphone measurement correction curves, and high-res DAC routing.</li>
+        <li><strong>Dual Player Canvas:</strong> Classical rotating dial and modern Apple Music style square artwork layouts.</li>
       </ul>
       <p align="center">
         <a href="https://aethermusic-alpha.vercel.app"><strong>🌐 Official Website</strong></a> • 
-        <a href="https://github.com/thalalbinod208-cell/AETHER/releases/latest"><strong>📱 Download v2.4.0</strong></a> • 
+        <a href="https://github.com/thalalbinod208-cell/AETHER/releases/latest"><strong>📱 Download v2.5.0</strong></a> • 
         <a href="https://github.com/thalalbinod208-cell/AETHER"><strong>📦 Source Code</strong></a>
       </p>
     </td>
@@ -50,7 +54,7 @@
       <h3 align="center">🎵 UnX Music</h3>
       <p align="center"><em>High-performance streaming music player.</em></p>
       <ul>
-        <li><strong>Clean Experience:</strong> Minimalist, ad-free streaming with fast search and dynamic queuing.</li>
+        <li><strong>Clean Experience:</strong> Minimalist, ad-free streaming with instant search and dynamic queueing.</li>
         <li><strong>Offline Listening:</strong> Offline caching, synced lyrics (.lrc), and local library indexing.</li>
         <li><strong>Modern Android:</strong> 100% Kotlin, Jetpack Compose UI, and Coroutines Flow architecture.</li>
         <li><strong>Open Ecosystem:</strong> Upstream attribution, community-driven, and GPL-3.0 licensed.</li>
@@ -71,6 +75,7 @@
   ┌─────────────────────────────────────────────────────────────────────────────┐
   │  Android Architecture  │  Kotlin, Jetpack Compose, Coroutines, StateFlow   │
   │  Media & Audio         │  AndroidX Media3, ExoPlayer, Bit-Perfect DAC, DSP │
+  │  Video Playback        │  4K UHD / 2K QHD MediaStore & Metadata Extraction │
   │  Graphics & Shaders    │  AGSL Runtime Shaders, RenderEffect, Coil 3       │
   │  Network & Data        │  OkHttp3, Retrofit, Room DB, SQLite, Okio         │
   │  Dev & Deployment      │  Gradle, Git, Linux / Termux, Proot, Vercel       │
@@ -109,6 +114,7 @@
 ## 📬 Find & Connect
 
 - 🌐 **AETHER Music Official Website:** [https://aethermusic-alpha.vercel.app](https://aethermusic-alpha.vercel.app)
+- 💬 **WhatsApp Direct Support:** [Chat with Binod (+977 9768914027)](https://wa.me/9779768914027)
 - 🐙 **GitHub Repositories:** [Browse all repositories](https://github.com/thalalbinod208-cell?tab=repositories)
 - 💡 **Report Issues or Feedback:** [AETHER Issues](https://github.com/thalalbinod208-cell/AETHER/issues) · [UnX Music Issues](https://github.com/thalalbinod208-cell/UnxMusic/issues)
 - 🔒 **Security Disclosures:** [Submit security advisory](https://github.com/thalalbinod208-cell/AETHER/security/advisories/new)

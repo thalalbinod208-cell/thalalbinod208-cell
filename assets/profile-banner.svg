@@ -83,7 +83,7 @@
 
   <!-- Stats Line -->
   <text x="66" y="325" fill="#64748b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="13" font-weight="500">
-    ✦ Flagship Release: AETHER v2.4.0 (Live on Vercel &amp; GitHub) &nbsp;·&nbsp; Android 10+
+    ✦ Flagship Release: AETHER v2.5.0 (Live on Vercel &amp; GitHub) &nbsp;·&nbsp; Android 10+
   </text>
 
   <!-- Right Hero Card: Audio Spectrum & Status -->
@@ -135,6 +135,6 @@
     <!-- Track Info In Pod -->
     <text x="34" y="200" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14" font-weight="700">AETHER Engine</text>
     <text x="34" y="218" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11">4K Video • Media3 • Liquid Glass Design</text>
-    <text x="320" y="210" text-anchor="end" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" font-weight="700">2.4.0</text>
+    <text x="320" y="210" text-anchor="end" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" font-weight="700">2.5.0</text>
   </g>
 </svg>
